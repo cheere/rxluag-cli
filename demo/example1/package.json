@@ -1,6 +1,7 @@
 {
   "name": "ex1",
   "scripts": {
+    "help": "rxluag-cli -h",
     "build": "node scripts/index",
     "build2": "rxluag-cli -i main.lua"
   },
