@@ -1,0 +1,6 @@
+packages:
+  - "demo/*"
+
+catalog:
+  "rxluag-cli": "1.0.15"
+  "rxfile-write": "0.0.8"

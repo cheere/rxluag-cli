@@ -1,0 +1,23 @@
+.DS_Store
+.luac
+.temp
+.cache
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.iml
+*.proj
+
+# mjz-pk
+node_modules/
+dist
+
+# lock
+package-lock.json
+pnpm-lock.yaml
+yarn.lock

@@ -1,0 +1,10 @@
+{
+  "name": "ex1",
+  "scripts": {
+    "build": "node scripts/index",
+    "build2": "rxluag-cli -i main.lua"
+  },
+  "dependencies": {
+    "rxluag-cli": "catalog:"
+  }
+}

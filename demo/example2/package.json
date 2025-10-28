@@ -1,0 +1,12 @@
+{
+  "name": "ex2",
+  "scripts": {
+    "build": "node scripts/node",
+    "build2": "rxluag-cli --input src/main.lua --output ex-npm-main.lua --sprites scripts/rxlua-cli/sprites.js -e false",
+    "build3": "rxluag-cli --input src/main.lua --output ex-npm-main.lua --sprites /Users/srxboys/srxboys/mayun/cheere/rxluag-cli/demo/example2/scripts/rxlua-cli/sprites.js",
+    "build4": "node scripts/shell"
+  },
+  "dependencies": {
+    "rxluag-cli": "catalog:"
+  }
+}
