@@ -2,5 +2,5 @@ packages:
   - "demo/*"
 
 catalog:
-  "rxluag-cli": "1.0.15"
+  "rxluag-cli": "1.1.0"
   "rxfile-write": "0.0.8"
