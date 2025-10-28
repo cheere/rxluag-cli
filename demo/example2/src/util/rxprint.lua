@@ -1,4 +1,4 @@
-require 'util/util'
+local util = require 'util/util'
 
 print('src -> rxprint -> rxprint.lua -<<')
 
